@@ -1,11 +1,9 @@
 # 🤖 Clustering con K-Means en Datos Sintéticos
 
 Este repositorio contiene un análisis completo de clustering no supervisado utilizando el algoritmo K-Means aplicado sobre un conjunto de datos sintéticos. Se evalúan diferentes valores de k usando el método del codo y la puntuación de silueta, y se visualizan los resultados mediante reducción de dimensionalidad con PCA.
-👥 Autores
+👥 Autor
 
     David Ricardo Jiménez Núñez
-
-    Cesar Martínez Andrade
 
 📁 Contenido
 
